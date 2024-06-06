@@ -1,14 +1,13 @@
 ﻿<html>
 	<head>
-        <title>Enviar mensagem de WhatsApp sem ter o contato na agenda</title>
-            <meta name="title" content="Envie mensagem de WhatsApp sem ter que salvar o contato na sua agenda.">
-            <meta name="description" content="Dica do Minuto da Cibernética.">
-            <meta itemprop="image" content="logo.jpg">
-            <meta property="og:image" content="logo.jpg" />
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        	<title>Enviar mensagem de WhatsApp sem ter o contato na agenda</title>
+            	<meta name="title" content="Envie mensagem de WhatsApp sem ter que salvar o contato na sua agenda.">
+            	<meta name="description" content="Dica do Minuto da Cibernética.">
+            	<meta itemprop="image" content="logo.jpg">
+            	<meta property="og:image" content="logo.jpg" />
+        	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	</head>
-
 
     <body>
         
@@ -257,15 +256,11 @@
         </p>
         </form>
 
-	<!-- 
-
-  <iframe width="100%" height="200"
-	src="https://www.youtube.com/embed/t9vW6JWJ5gA">
-	</iframe>
+				
+<iframe width="100%" height="200" src="https://www.youtube.com/embed/t9vW6JWJ5gA"></iframe>
   
-  -->
 
-  <a href="../index.php"><img src='../imagens/banner_minuto_ciber_001.jpg' width='100%'></a>
+<a href="../index.php"><img src='../imagens/banner_minuto_ciber_001.jpg' width='100%'></a>
 
 		</div>
 	</div>
