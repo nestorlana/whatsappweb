@@ -7,4 +7,4 @@ https://www.minutociber.com.br/whatsapp/enviar.php
 Connect with me on LinkedIn:
 https://www.linkedin.com/in/nestorlana/
 
-<img src="https://github.com/nestorlana/whatsappweb/blob/main/screenshot_001.png" alt="ScreenShot" width="300">
+<img src="https://github.com/nestorlana/whatsappweb/blob/main/screenshot_001.png" alt="ScreenShot" width="350">
